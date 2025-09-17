@@ -18,8 +18,6 @@
 
 The software excels in annotation capabilities, offering an extensive array of markup tools including comments, stamps, measurements, and drawing instruments that are essential for document review and collaboration processes. Its advanced OCR (Optical Character Recognition) engine converts scanned documents and image-based PDFs into searchable, editable text with remarkable accuracy, supporting multiple languages and preserving original document layout and formatting.
 
-PDF-XChange Editor stands out with its customizable interface and modular design, allowing users to tailor the software to their specific workflow requirements. The application supports plug-ins and extensions, enabling additional functionality such as forms creation, digital signatures, and advanced security features. With support for industry standards and compliance requirements, it serves as an ideal solution for legal, engineering, government, and educational sectors where precision and reliability are paramount.
-
 <p align="center">
   <img src="https://cdn.pdf-xchange.com/img/products/features/screenshots/137-Editor.shot.png?1512436632" alt="PDF-XChange Editor Interface"/>
 </p>
